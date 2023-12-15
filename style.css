@@ -1,3 +1,37 @@
-body {
-
+body{
+  background-color: #403d39;
+}
+h1{font-size: 430%;
+  color: Black;
+  Font-family: Palatino, URW Palladio L, serif; 
+}
+p{
+  font-size: 440%;
+  color: Black;
+  Font-family: Palatino, URW Palladio L, serif; 
+}
+img{
+  width: 700px;
+  border-color: black;
+  border-style: solid;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed
+}
+li{
+  float: left;
+  background-color:Grey;
+  Border-Style: solid;
+  border-color: black;
+  
+}
+li a{
+  font-size: 20px;
+  padding: 20px;
+  color: White;
+}
+li a:hover{
+  color:Black;
 }
