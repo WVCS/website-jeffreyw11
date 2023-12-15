@@ -1,0 +1,24 @@
+body{
+  background: #403d39;
+}
+h1{font-size: 450%;
+  color: Black;
+  Font-family: Palatino, URW Palladio L, serif; 
+}
+ul{
+  list-style-type: none;
+  position: fixed;
+  text-align: center;
+}
+li a{
+  border-color: White;
+  border-style: solid;
+  color: White;
+  Font-family: Palatino, URW Palladio L, serif;
+  text-decoration: none;
+  font-size: 37px;
+}
+li a:hover{
+  background-color: White;
+  color:Black;
+}
